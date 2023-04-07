@@ -1,0 +1,19 @@
+1.Implement a class hierarchy for different types of vehicles. Each vehicle should have attributes like brand, model, year of manufacture, and a method to start the engine.
+
+2.Create a class representing a bank account that has attributes like account number, account holder name, and account balance. Implement methods to deposit, withdraw, and check balance.
+
+3.Implement a class hierarchy for different types of animals. Each animal should have attributes like name, age, and a method to make a sound. Create subclasses for different types of animals like cat, dog, and bird.
+
+4.Create a class representing a book that has attributes like title, author, and number of pages. Implement a method to get the number of pages per chapter.
+
+5.Implement a class hierarchy for different types of shapes like rectangle, circle, and triangle. Each shape should have attributes like length, width, and area. Implement methods to calculate the area and perimeter of each shape.
+
+6.Create a class representing a student that has attributes like name, age, and grade. Implement methods to calculate the average grade of a group of students and to sort them by grade.
+
+7.Implement a class hierarchy for different types of employees like manager, developer, and tester. Each employee should have attributes like name, age, and salary. Implement methods to calculate the average salary and to sort them by salary.
+
+8.Create a class representing a shopping cart that has attributes like a list of items and a total price. Implement methods to add, remove, and calculate the total price of the items in the cart.
+
+9.Implement a class hierarchy for different types of food items like pizza, burger, and sandwich. Each food item should have attributes like name, price, and a method to calculate the calories. Implement methods to calculate the total price and calories of a list of food items.
+
+10.Create a class representing a vehicle rental system that has attributes like a list of available vehicles, rented vehicles, and a method to rent a vehicle. Each vehicle should have attributes like brand, model, and rental price per day. Implement methods to calculate the total revenue and to sort the rented vehicles by rental duration.
